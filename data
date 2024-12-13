@@ -1,0 +1,1677 @@
+{
+    "status": "success",
+    "data": {
+        "result": {
+            "result_id": 19479698,
+            "deleted": 0,
+            "user_id": 4640133,
+            "quiz_id": 0,
+            "created_at": "2024-08-30 16:01:11",
+            "updated_at": "2024-08-30 16:11:41",
+            "question_total": 35,
+            "answer_acc": 35,
+            "percent": 100,
+            "seconds": 630,
+            "source_id": 87764,
+            "filter_id": 0,
+            "item_id": 0,
+            "tel": "",
+            "item_description": "280",
+            "item_description_2": null,
+            "contestant_name": "Anhnd2",
+            "source_type": "contest",
+            "tenant_id": "1",
+            "fraud_warning": 0,
+            "quiz_result_history": [
+                {
+                    "result_id": 19479698,
+                    "created_date": "2024-08-30",
+                    "question_id": 2247042,
+                    "question_old_code": null,
+                    "list_choice": [
+                        "pumz",
+                        "dzli",
+                        "ikuk"
+                    ],
+                    "ans": [
+                        "ikuk"
+                    ],
+                    "true": [
+                        "ikuk"
+                    ],
+                    "extracted_true": null,
+                    "question": {
+                        "id": 2247042,
+                        "quiz_id": 82241,
+                        "position": 0,
+                        "excerpt": "Có được để máy tính chạy qua đêm sau khi hết giờ làm việc?",
+                        "image": null,
+                        "sound": null,
+                        "youtube": null,
+                        "answer": {
+                            "pumz": "Có",
+                            "dzli": "Không",
+                            "ikuk": "Cần phải được sự đồng ý của trưởng bộ phận và phòng IT"
+                        },
+                        "answer_image": {
+                            "pumz": null,
+                            "dzli": null,
+                            "ikuk": null
+                        },
+                        "true": [
+                            "ikuk"
+                        ],
+                        "created_at": "2023-10-17T02:43:48.000000Z",
+                        "updated_at": "2024-01-15T04:50:05.000000Z",
+                        "deleted_at": null,
+                        "note": null
+                    }
+                },
+                {
+                    "result_id": 19479698,
+                    "created_date": "2024-08-30",
+                    "question_id": 2247048,
+                    "question_old_code": null,
+                    "list_choice": [
+                        "rhto",
+                        "uomy",
+                        "jjej",
+                        "qpvj"
+                    ],
+                    "ans": [
+                        "qpvj"
+                    ],
+                    "true": [
+                        "qpvj"
+                    ],
+                    "extracted_true": null,
+                    "question": {
+                        "id": 2247048,
+                        "quiz_id": 82241,
+                        "position": 0,
+                        "excerpt": "Nhân viên có thể tải xuống và cài đặt những phần mềm nào?",
+                        "image": null,
+                        "sound": null,
+                        "youtube": null,
+                        "answer": {
+                            "rhto": "Bất kỳ phần mềm nào họ thấy cần thiết",
+                            "uomy": "Các phần mềm miễn phí",
+                            "jjej": "Các phần mềm có bản quyền",
+                            "qpvj": "Phần mềm có trong danh mục các phần mềm đã được phê duyệt tại danh mục “BM-BO-01-05”"
+                        },
+                        "answer_image": {
+                            "rhto": null,
+                            "uomy": null,
+                            "jjej": null,
+                            "qpvj": null
+                        },
+                        "true": [
+                            "qpvj"
+                        ],
+                        "created_at": "2023-10-17T02:43:48.000000Z",
+                        "updated_at": "2024-01-15T04:50:05.000000Z",
+                        "deleted_at": null,
+                        "note": null
+                    }
+                },
+                {
+                    "result_id": 19479698,
+                    "created_date": "2024-08-30",
+                    "question_id": 2247049,
+                    "question_old_code": null,
+                    "list_choice": [
+                        "bspk",
+                        "lmkr",
+                        "szlr",
+                        "vkis"
+                    ],
+                    "ans": [
+                        "szlr"
+                    ],
+                    "true": [
+                        "szlr"
+                    ],
+                    "extracted_true": null,
+                    "question": {
+                        "id": 2247049,
+                        "quiz_id": 82241,
+                        "position": 0,
+                        "excerpt": "Do yêu cầu công việc cần sử dụng phần mềm không có trong danh mục được phê duyệt nhân viên cần phải:",
+                        "image": null,
+                        "sound": null,
+                        "youtube": null,
+                        "answer": {
+                            "bspk": "Download từ internet về và tự cài đặt",
+                            "lmkr": "Nhờ nhân viên IT cài đặt",
+                            "szlr": "Gửi yêu cầu được phép cài đặt đến nhân viên IT",
+                            "vkis": "Yêu cầu trưởng bộ phận cài đặt giúp"
+                        },
+                        "answer_image": {
+                            "bspk": null,
+                            "lmkr": null,
+                            "szlr": null,
+                            "vkis": null
+                        },
+                        "true": [
+                            "szlr"
+                        ],
+                        "created_at": "2023-10-17T02:43:48.000000Z",
+                        "updated_at": "2024-01-15T04:50:05.000000Z",
+                        "deleted_at": null,
+                        "note": null
+                    }
+                },
+                {
+                    "result_id": 19479698,
+                    "created_date": "2024-08-30",
+                    "question_id": 2247050,
+                    "question_old_code": null,
+                    "list_choice": [
+                        "axqd",
+                        "oyzm",
+                        "vzrj",
+                        "tdnj"
+                    ],
+                    "ans": [
+                        "vzrj"
+                    ],
+                    "true": [
+                        "vzrj"
+                    ],
+                    "extracted_true": null,
+                    "question": {
+                        "id": 2247050,
+                        "quiz_id": 82241,
+                        "position": 0,
+                        "excerpt": "Khi sử dụng email công ty nhân viên cần phải:",
+                        "image": null,
+                        "sound": null,
+                        "youtube": null,
+                        "answer": {
+                            "axqd": "Sử dụng password được cấp mặc định.",
+                            "oyzm": "Đặt chữ ký cá nhân tùy ý",
+                            "vzrj": "Phải kiểm tra email trước khi gửi tránh nhầm địa chỉ email, file đính kèm sai",
+                            "tdnj": "Phải thiết lập chế độ quét virus khi gửi mail cho người khác."
+                        },
+                        "answer_image": {
+                            "axqd": null,
+                            "oyzm": null,
+                            "vzrj": null,
+                            "tdnj": null
+                        },
+                        "true": [
+                            "vzrj"
+                        ],
+                        "created_at": "2023-10-17T02:43:48.000000Z",
+                        "updated_at": "2024-01-15T04:50:05.000000Z",
+                        "deleted_at": null,
+                        "note": null
+                    }
+                },
+                {
+                    "result_id": 19479698,
+                    "created_date": "2024-08-30",
+                    "question_id": 2247051,
+                    "question_old_code": null,
+                    "list_choice": [
+                        "lmhw",
+                        "patq",
+                        "jnhr",
+                        "jiec"
+                    ],
+                    "ans": [
+                        "patq"
+                    ],
+                    "true": [
+                        "patq"
+                    ],
+                    "extracted_true": null,
+                    "question": {
+                        "id": 2247051,
+                        "quiz_id": 82241,
+                        "position": 0,
+                        "excerpt": "Những hành vi nào được phép khi sử dụng email công ty:",
+                        "image": null,
+                        "sound": null,
+                        "youtube": null,
+                        "answer": {
+                            "lmhw": "Sử dụng địa chỉ email của công ty để phát tán tài liệu, thông tin nhà nước cấm, tài liệu trái thuần phong mỹ tục, xuyên tạc các thông tin về công ty",
+                            "patq": "Sử dụng email công ty để trao đổi, làm việc với khách hàng và nhân viên khác trong công ty",
+                            "jnhr": "Tiết lộ các thông tin mang tính bảo mật của công ty và thông tin của khách hàng trong các giao dịch",
+                            "jiec": "Sử dụng email của công ty để đăng ký làm thành viên tại bất kỳ trang web nào, trừ những trang web có thông báo chính thức từ công ty"
+                        },
+                        "answer_image": {
+                            "lmhw": null,
+                            "patq": null,
+                            "jnhr": null,
+                            "jiec": null
+                        },
+                        "true": [
+                            "patq"
+                        ],
+                        "created_at": "2023-10-17T02:43:48.000000Z",
+                        "updated_at": "2024-01-15T04:50:05.000000Z",
+                        "deleted_at": null,
+                        "note": null
+                    }
+                },
+                {
+                    "result_id": 19479698,
+                    "created_date": "2024-08-30",
+                    "question_id": 2247053,
+                    "question_old_code": null,
+                    "list_choice": [
+                        "hnaw",
+                        "slfg",
+                        "vokd",
+                        "ehac",
+                        "biuw"
+                    ],
+                    "ans": [
+                        "biuw"
+                    ],
+                    "true": [
+                        "biuw"
+                    ],
+                    "extracted_true": null,
+                    "question": {
+                        "id": 2247053,
+                        "quiz_id": 82241,
+                        "position": 0,
+                        "excerpt": "Điều nào sau đây bị cấm:",
+                        "image": null,
+                        "sound": null,
+                        "youtube": null,
+                        "answer": {
+                            "hnaw": "Truy cập thông tin ngoài phạm vi quyền hạn của bạn.",
+                            "slfg": "Mang thông tin của công ty ra ngoài khi không được phép.",
+                            "vokd": "Chia sẻ, tiết lộ thông tin của công ty",
+                            "ehac": "Để tài liệu tại nơi máy in hay máy photocopy, trong phòng họp.",
+                            "biuw": "Tất cả các phương án trên"
+                        },
+                        "answer_image": {
+                            "hnaw": null,
+                            "slfg": null,
+                            "vokd": null,
+                            "ehac": null,
+                            "biuw": null
+                        },
+                        "true": [
+                            "biuw"
+                        ],
+                        "created_at": "2023-10-17T02:43:48.000000Z",
+                        "updated_at": "2024-01-15T04:50:05.000000Z",
+                        "deleted_at": null,
+                        "note": null
+                    }
+                },
+                {
+                    "result_id": 19479698,
+                    "created_date": "2024-08-30",
+                    "question_id": 2247058,
+                    "question_old_code": null,
+                    "list_choice": [
+                        "jpvu",
+                        "wvig",
+                        "dtmr",
+                        "kllc"
+                    ],
+                    "ans": [
+                        "jpvu"
+                    ],
+                    "true": [
+                        "jpvu"
+                    ],
+                    "extracted_true": null,
+                    "question": {
+                        "id": 2247058,
+                        "quiz_id": 82241,
+                        "position": 0,
+                        "excerpt": "Khi có sự cố hoặc phát hiện có truy cập trái phép bất kể do vô tình hay cố ý sẽ báo cho ai biết?",
+                        "image": null,
+                        "sound": null,
+                        "youtube": null,
+                        "answer": {
+                            "jpvu": "Người quản lý hoặc người có trách nhiệm",
+                            "wvig": "Nhân sự",
+                            "dtmr": "Giám đốc",
+                            "kllc": "Đồng nghiệp"
+                        },
+                        "answer_image": {
+                            "jpvu": null,
+                            "wvig": null,
+                            "dtmr": null,
+                            "kllc": null
+                        },
+                        "true": [
+                            "jpvu"
+                        ],
+                        "created_at": "2023-10-17T02:43:48.000000Z",
+                        "updated_at": "2024-01-15T04:50:05.000000Z",
+                        "deleted_at": null,
+                        "note": null
+                    }
+                },
+                {
+                    "result_id": 19479698,
+                    "created_date": "2024-08-30",
+                    "question_id": 2247061,
+                    "question_old_code": null,
+                    "list_choice": [
+                        "fjmd",
+                        "xars",
+                        "xzfv",
+                        "ckkp",
+                        "rqcz",
+                        "jwdi",
+                        "iufz"
+                    ],
+                    "ans": [
+                        "fjmd",
+                        "xars",
+                        "xzfv",
+                        "ckkp",
+                        "rqcz",
+                        "iufz"
+                    ],
+                    "true": [
+                        "fjmd",
+                        "xars",
+                        "xzfv",
+                        "ckkp",
+                        "rqcz",
+                        "iufz"
+                    ],
+                    "extracted_true": null,
+                    "question": {
+                        "id": 2247061,
+                        "quiz_id": 82241,
+                        "position": 0,
+                        "excerpt": "Nghiêm cấm sử dụng internet trong và ngoài giờ trong trường hợp nào sau đây? (Chọn nhiều đáp án)",
+                        "image": null,
+                        "sound": null,
+                        "youtube": null,
+                        "answer": {
+                            "fjmd": "Sử dụng các mạng xã hội trong giờ làm việc",
+                            "xars": "Sử dụng phần mềm chia sẻ ngang hàng (Kazza, emule…)",
+                            "xzfv": "Xem phim, nghe nhạc trực tuyến",
+                            "ckkp": "Chơi game trực tuyến",
+                            "rqcz": "Download các trò chơi hay các phần mềm giải trí khác",
+                            "jwdi": "Cấm download, upload các tài liệu cá nhân",
+                            "iufz": "Truy cập vào trang web có nội dung xấu, không lành mạnh và các trang web cung cấp crack, serial phần mềm."
+                        },
+                        "answer_image": {
+                            "fjmd": null,
+                            "xars": null,
+                            "xzfv": null,
+                            "ckkp": null,
+                            "rqcz": null,
+                            "jwdi": null,
+                            "iufz": null
+                        },
+                        "true": [
+                            "fjmd",
+                            "xars",
+                            "xzfv",
+                            "ckkp",
+                            "rqcz",
+                            "iufz"
+                        ],
+                        "created_at": "2023-10-17T02:43:48.000000Z",
+                        "updated_at": "2024-01-15T04:50:05.000000Z",
+                        "deleted_at": null,
+                        "note": null
+                    }
+                },
+                {
+                    "result_id": 19479698,
+                    "created_date": "2024-08-30",
+                    "question_id": 2247062,
+                    "question_old_code": null,
+                    "list_choice": [
+                        "sris",
+                        "awlc",
+                        "xrqf",
+                        "ovwb"
+                    ],
+                    "ans": [
+                        "xrqf"
+                    ],
+                    "true": [
+                        "xrqf"
+                    ],
+                    "extracted_true": null,
+                    "question": {
+                        "id": 2247062,
+                        "quiz_id": 82241,
+                        "position": 0,
+                        "excerpt": "Cần thông báo cho ai khi dịch vụ Internet gặp sự cố hoặc phát hiện hành vi cấm?",
+                        "image": null,
+                        "sound": null,
+                        "youtube": null,
+                        "answer": {
+                            "sris": "Nhân sự",
+                            "awlc": "Project Manager",
+                            "xrqf": "Phòng IT",
+                            "ovwb": "Admin"
+                        },
+                        "answer_image": {
+                            "sris": null,
+                            "awlc": null,
+                            "xrqf": null,
+                            "ovwb": null
+                        },
+                        "true": [
+                            "xrqf"
+                        ],
+                        "created_at": "2023-10-17T02:43:48.000000Z",
+                        "updated_at": "2024-01-15T04:50:05.000000Z",
+                        "deleted_at": null,
+                        "note": null
+                    }
+                },
+                {
+                    "result_id": 19479698,
+                    "created_date": "2024-08-30",
+                    "question_id": 2247066,
+                    "question_old_code": null,
+                    "list_choice": [
+                        "znvx",
+                        "nmqf"
+                    ],
+                    "ans": [
+                        "znvx"
+                    ],
+                    "true": [
+                        "znvx"
+                    ],
+                    "extracted_true": null,
+                    "question": {
+                        "id": 2247066,
+                        "quiz_id": 82241,
+                        "position": 0,
+                        "excerpt": "Các thiết bị cá nhân cần được thiết lập bảo mật, cài, quét trình duyệt virus trước khi kết nối với mạng của công ty đúng không?",
+                        "image": null,
+                        "sound": null,
+                        "youtube": null,
+                        "answer": {
+                            "znvx": "Đúng",
+                            "nmqf": "Sai"
+                        },
+                        "answer_image": {
+                            "znvx": null,
+                            "nmqf": null
+                        },
+                        "true": [
+                            "znvx"
+                        ],
+                        "created_at": "2023-10-17T02:43:48.000000Z",
+                        "updated_at": "2024-01-15T04:50:05.000000Z",
+                        "deleted_at": null,
+                        "note": null
+                    }
+                },
+                {
+                    "result_id": 19479698,
+                    "created_date": "2024-08-30",
+                    "question_id": 2247067,
+                    "question_old_code": null,
+                    "list_choice": [
+                        "lmag",
+                        "kzxl",
+                        "ryzb",
+                        "anmp",
+                        "pfhl",
+                        "qvrq",
+                        "whuj",
+                        "uyte"
+                    ],
+                    "ans": [
+                        "uyte"
+                    ],
+                    "true": [
+                        "uyte"
+                    ],
+                    "extracted_true": null,
+                    "question": {
+                        "id": 2247067,
+                        "quiz_id": 82241,
+                        "position": 0,
+                        "excerpt": "Tuyệt đối không được phép làm gì sau đây?",
+                        "image": null,
+                        "sound": null,
+                        "youtube": null,
+                        "answer": {
+                            "lmag": "Tự ý xoá chương trình AntiVirus trên máy tính.",
+                            "kzxl": "Tự ý tắt tính năng quét tự động, cập nhật tự động của chương trình Antivirus được cài đặt trên máy",
+                            "ryzb": "Tắt tính năng tường lửa được cài đặt trên máy.",
+                            "anmp": "Truy nhập vào các trang web không rõ nguồn gốc, không phục vụ công việc.",
+                            "pfhl": "Mở file không rõ địa chỉ người gửi, mà phải xóa ngay",
+                            "qvrq": "Mở file thực thi đính kèm hoặc download có đuôi .exe, .bat, .dll ...",
+                            "whuj": "Truy cập vào trang web có nội dung xấu, không lành mạnh và các trang web cung cấp crack, serial phần mềm.",
+                            "uyte": "Tất cả phương án trên"
+                        },
+                        "answer_image": {
+                            "lmag": null,
+                            "kzxl": null,
+                            "ryzb": null,
+                            "anmp": null,
+                            "pfhl": null,
+                            "qvrq": null,
+                            "whuj": null,
+                            "uyte": null
+                        },
+                        "true": [
+                            "uyte"
+                        ],
+                        "created_at": "2023-10-17T02:43:48.000000Z",
+                        "updated_at": "2024-01-15T04:50:05.000000Z",
+                        "deleted_at": null,
+                        "note": null
+                    }
+                },
+                {
+                    "result_id": 19479698,
+                    "created_date": "2024-08-30",
+                    "question_id": 2247069,
+                    "question_old_code": null,
+                    "list_choice": [
+                        "thkp",
+                        "icdz"
+                    ],
+                    "ans": [
+                        "thkp"
+                    ],
+                    "true": [
+                        "thkp"
+                    ],
+                    "extracted_true": null,
+                    "question": {
+                        "id": 2247069,
+                        "quiz_id": 82241,
+                        "position": 0,
+                        "excerpt": "Có cần cài phần mềm diệt virus và update các bản vá lỗi của hệ điều hành & các phần mềm (được cài trên máy) ngay khi có bản cập nhật không?",
+                        "image": null,
+                        "sound": null,
+                        "youtube": null,
+                        "answer": {
+                            "thkp": "Có",
+                            "icdz": "Không"
+                        },
+                        "answer_image": {
+                            "thkp": null,
+                            "icdz": null
+                        },
+                        "true": [
+                            "thkp"
+                        ],
+                        "created_at": "2023-10-17T02:43:48.000000Z",
+                        "updated_at": "2024-01-15T04:50:05.000000Z",
+                        "deleted_at": null,
+                        "note": null
+                    }
+                },
+                {
+                    "result_id": 19479698,
+                    "created_date": "2024-08-30",
+                    "question_id": 2247072,
+                    "question_old_code": null,
+                    "list_choice": [
+                        "zbve",
+                        "gihz",
+                        "hvog"
+                    ],
+                    "ans": [
+                        "hvog"
+                    ],
+                    "true": [
+                        "hvog"
+                    ],
+                    "extracted_true": null,
+                    "question": {
+                        "id": 2247072,
+                        "quiz_id": 82241,
+                        "position": 0,
+                        "excerpt": "Dữ liệu điện tử gửi ra ngoài công ty cần làm gì?",
+                        "image": null,
+                        "sound": null,
+                        "youtube": null,
+                        "answer": {
+                            "zbve": "Kiểm tra tài liệu hay dữ liệu điện tử đã đã đến người nhận hay chưa",
+                            "gihz": "Đặt mật mã\/ Mã hóa dữ liệu điện tử",
+                            "hvog": "Tất cả các đáp án"
+                        },
+                        "answer_image": {
+                            "zbve": null,
+                            "gihz": null,
+                            "hvog": null
+                        },
+                        "true": [
+                            "hvog"
+                        ],
+                        "created_at": "2023-10-17T02:43:48.000000Z",
+                        "updated_at": "2024-01-15T04:50:05.000000Z",
+                        "deleted_at": null,
+                        "note": null
+                    }
+                },
+                {
+                    "result_id": 19479698,
+                    "created_date": "2024-08-30",
+                    "question_id": 2247073,
+                    "question_old_code": null,
+                    "list_choice": [
+                        "frao",
+                        "dddi",
+                        "qpij",
+                        "tvby"
+                    ],
+                    "ans": [
+                        "frao"
+                    ],
+                    "true": [
+                        "frao"
+                    ],
+                    "extracted_true": null,
+                    "question": {
+                        "id": 2247073,
+                        "quiz_id": 82241,
+                        "position": 0,
+                        "excerpt": "Việc làm nào là cần thiết để bảo mật thông tin dự án.",
+                        "image": null,
+                        "sound": null,
+                        "youtube": null,
+                        "answer": {
+                            "frao": "Không được chia sẻ cho người bên ngoài dự án với bất kỳ hình thức nào",
+                            "dddi": "Download dữ liệu dự án về máy tính cá nhân đề phòng trường hợp máy công ty gặp sự cố",
+                            "qpij": "Upload lên mạng xã hội, cloud cá nhân để chia sẻ cho thành viên dự án",
+                            "tvby": "Mang tài liệu giấy tờ ra khỏi công ty, khu vực dự án"
+                        },
+                        "answer_image": {
+                            "frao": null,
+                            "dddi": null,
+                            "qpij": null,
+                            "tvby": null
+                        },
+                        "true": [
+                            "frao"
+                        ],
+                        "created_at": "2023-10-17T02:43:48.000000Z",
+                        "updated_at": "2024-01-15T04:50:05.000000Z",
+                        "deleted_at": null,
+                        "note": null
+                    }
+                },
+                {
+                    "result_id": 19479698,
+                    "created_date": "2024-08-30",
+                    "question_id": 2247074,
+                    "question_old_code": null,
+                    "list_choice": [
+                        "vqwp",
+                        "qeiv",
+                        "snms",
+                        "ofyy"
+                    ],
+                    "ans": [
+                        "ofyy"
+                    ],
+                    "true": [
+                        "ofyy"
+                    ],
+                    "extracted_true": null,
+                    "question": {
+                        "id": 2247074,
+                        "quiz_id": 82241,
+                        "position": 0,
+                        "excerpt": "Khi gửi tài liệu quan trọng qua email cho khách hàng cần:",
+                        "image": null,
+                        "sound": null,
+                        "youtube": null,
+                        "answer": {
+                            "vqwp": "Zip file",
+                            "qeiv": "Đặt password",
+                            "snms": "Gửi tài liệu và pass mở file trong cùng một email",
+                            "ofyy": "Zip file, đặt password cho tài liệu và gửi password giải nén cho khách bằng phương thức khác"
+                        },
+                        "answer_image": {
+                            "vqwp": null,
+                            "qeiv": null,
+                            "snms": null,
+                            "ofyy": null
+                        },
+                        "true": [
+                            "ofyy"
+                        ],
+                        "created_at": "2023-10-17T02:43:48.000000Z",
+                        "updated_at": "2024-01-15T04:50:05.000000Z",
+                        "deleted_at": null,
+                        "note": null
+                    }
+                },
+                {
+                    "result_id": 19479698,
+                    "created_date": "2024-08-30",
+                    "question_id": 2247075,
+                    "question_old_code": null,
+                    "list_choice": [
+                        "aksk",
+                        "csaw",
+                        "ysfc",
+                        "gqek"
+                    ],
+                    "ans": [
+                        "gqek"
+                    ],
+                    "true": [
+                        "gqek"
+                    ],
+                    "extracted_true": null,
+                    "question": {
+                        "id": 2247075,
+                        "quiz_id": 82241,
+                        "position": 0,
+                        "excerpt": "Đối với source dự án cần:",
+                        "image": null,
+                        "sound": null,
+                        "youtube": null,
+                        "answer": {
+                            "aksk": "Sử dụng song song git của dự án và git cá nhân để đảm bảo backup",
+                            "csaw": "Lưu trữ về máy tính cá nhân",
+                            "ysfc": "Upload và public trên internet",
+                            "gqek": "Không sử dụng tài nguyên của dự án này cho dự án khác"
+                        },
+                        "answer_image": {
+                            "aksk": null,
+                            "csaw": null,
+                            "ysfc": null,
+                            "gqek": null
+                        },
+                        "true": [
+                            "gqek"
+                        ],
+                        "created_at": "2023-10-17T02:43:48.000000Z",
+                        "updated_at": "2024-01-15T04:50:05.000000Z",
+                        "deleted_at": null,
+                        "note": null
+                    }
+                },
+                {
+                    "result_id": 19479698,
+                    "created_date": "2024-08-30",
+                    "question_id": 2247076,
+                    "question_old_code": null,
+                    "list_choice": [
+                        "yyvq",
+                        "xsyu",
+                        "jvbv",
+                        "lify"
+                    ],
+                    "ans": [
+                        "xsyu",
+                        "yyvq"
+                    ],
+                    "true": [
+                        "yyvq",
+                        "xsyu"
+                    ],
+                    "extracted_true": null,
+                    "question": {
+                        "id": 2247076,
+                        "quiz_id": 82241,
+                        "position": 0,
+                        "excerpt": "Quản lý các tài khoản của dự án cần (Chọn nhiều đáp án):",
+                        "image": null,
+                        "sound": null,
+                        "youtube": null,
+                        "answer": {
+                            "yyvq": "Chỉ cho phép các tài khoản thuộc dự án mới được truy cập tài liệu, thông tin, source dự án",
+                            "xsyu": "Người ra khỏi dự án thì PM\/BrSE phải revoke tài khoản ngay lập tức",
+                            "jvbv": "Chia sẻ tài khoản quan trọng của khách hàng cho tất cả các thành viên dự án",
+                            "lify": "Sử dụng email cá nhân để truy cập vào tài liệu của khách hàng"
+                        },
+                        "answer_image": {
+                            "yyvq": null,
+                            "xsyu": null,
+                            "jvbv": null,
+                            "lify": null
+                        },
+                        "true": [
+                            "yyvq",
+                            "xsyu"
+                        ],
+                        "created_at": "2023-10-17T02:43:48.000000Z",
+                        "updated_at": "2024-01-15T04:50:05.000000Z",
+                        "deleted_at": null,
+                        "note": null
+                    }
+                },
+                {
+                    "result_id": 19479698,
+                    "created_date": "2024-08-30",
+                    "question_id": 2247085,
+                    "question_old_code": null,
+                    "list_choice": [
+                        "ojpf",
+                        "zuac",
+                        "qxgp"
+                    ],
+                    "ans": [
+                        "qxgp"
+                    ],
+                    "true": [
+                        "qxgp"
+                    ],
+                    "extracted_true": null,
+                    "question": {
+                        "id": 2247085,
+                        "quiz_id": 82241,
+                        "position": 0,
+                        "excerpt": "PM\/BrSE có gửi cho một đường link drive tài liệu, nhưng bạn không có quyền xem thì làm thế nào.",
+                        "image": null,
+                        "sound": null,
+                        "youtube": null,
+                        "answer": {
+                            "ojpf": "Bấm luôn vào button “Request accept”",
+                            "zuac": "Thông báo với PM\/BrSE dự án không vào được",
+                            "qxgp": "Không được bấm vào button “Request accept” sau đó xác nhận lại với PM\/BrSE để họ phân quyền"
+                        },
+                        "answer_image": {
+                            "ojpf": null,
+                            "zuac": null,
+                            "qxgp": null
+                        },
+                        "true": [
+                            "qxgp"
+                        ],
+                        "created_at": "2023-10-17T02:43:48.000000Z",
+                        "updated_at": "2024-01-15T04:50:05.000000Z",
+                        "deleted_at": null,
+                        "note": null
+                    }
+                },
+                {
+                    "result_id": 19479698,
+                    "created_date": "2024-08-30",
+                    "question_id": 2247086,
+                    "question_old_code": null,
+                    "list_choice": [
+                        "vwta",
+                        "kxgc",
+                        "vfzo",
+                        "khtz"
+                    ],
+                    "ans": [
+                        "vwta"
+                    ],
+                    "true": [
+                        "vwta"
+                    ],
+                    "extracted_true": null,
+                    "question": {
+                        "id": 2247086,
+                        "quiz_id": 82241,
+                        "position": 0,
+                        "excerpt": "Source code dự án có được đưa lên git cá nhân không.",
+                        "image": null,
+                        "sound": null,
+                        "youtube": null,
+                        "answer": {
+                            "vwta": "Tuyệt đối không được phép sử dụng git cá nhân",
+                            "kxgc": "Được phép đưa lên git cá nhân và đề chế độ private",
+                            "vfzo": "Đưa lên git cá nhân và để chế độ public",
+                            "khtz": "Đưa lên git cá nhân rồi share cho bạn bè"
+                        },
+                        "answer_image": {
+                            "vwta": null,
+                            "kxgc": null,
+                            "vfzo": null,
+                            "khtz": null
+                        },
+                        "true": [
+                            "vwta"
+                        ],
+                        "created_at": "2023-10-17T02:43:48.000000Z",
+                        "updated_at": "2024-01-15T04:50:05.000000Z",
+                        "deleted_at": null,
+                        "note": null
+                    }
+                },
+                {
+                    "result_id": 19479698,
+                    "created_date": "2024-08-30",
+                    "question_id": 2247087,
+                    "question_old_code": null,
+                    "list_choice": [
+                        "ymky",
+                        "undm",
+                        "rhoe",
+                        "iqgq"
+                    ],
+                    "ans": [
+                        "undm"
+                    ],
+                    "true": [
+                        "undm"
+                    ],
+                    "extracted_true": null,
+                    "question": {
+                        "id": 2247087,
+                        "quiz_id": 82241,
+                        "position": 0,
+                        "excerpt": "Source code và thông tin quan trọng dự án có được lưu trữ về máy tính cá nhân không.",
+                        "image": null,
+                        "sound": null,
+                        "youtube": null,
+                        "answer": {
+                            "ymky": "Lưu thoải mái",
+                            "undm": "Tuyệt đối không được lưu trữ về máy tính cá nhân",
+                            "rhoe": "Xin phép PM và lưu về máy cá nhân",
+                            "iqgq": "Xin phép quản lý cấp trên và lưu về máy cá nhân"
+                        },
+                        "answer_image": {
+                            "ymky": null,
+                            "undm": null,
+                            "rhoe": null,
+                            "iqgq": null
+                        },
+                        "true": [
+                            "undm"
+                        ],
+                        "created_at": "2023-10-17T02:43:48.000000Z",
+                        "updated_at": "2024-01-15T04:50:05.000000Z",
+                        "deleted_at": null,
+                        "note": null
+                    }
+                },
+                {
+                    "result_id": 19479698,
+                    "created_date": "2024-08-30",
+                    "question_id": 2247089,
+                    "question_old_code": null,
+                    "list_choice": [
+                        "ikpg",
+                        "faay",
+                        "ahny"
+                    ],
+                    "ans": [
+                        "ahny"
+                    ],
+                    "true": [
+                        "ahny"
+                    ],
+                    "extracted_true": null,
+                    "question": {
+                        "id": 2247089,
+                        "quiz_id": 82241,
+                        "position": 0,
+                        "excerpt": "Có nên dùng source code của dự án này cho dự án khác không.",
+                        "image": null,
+                        "sound": null,
+                        "youtube": null,
+                        "answer": {
+                            "ikpg": "Thấy tính năng giống nhau nên copy paste toàn bộ không chỉnh sửa",
+                            "faay": "Copy xong rồi sửa một chút cho chạy được, để nguyên logo và thư viện của code cũ",
+                            "ahny": "Tuyệt đối không được sử dụng tài nguyên của dự án này cho dự án khác"
+                        },
+                        "answer_image": {
+                            "ikpg": null,
+                            "faay": null,
+                            "ahny": null
+                        },
+                        "true": [
+                            "ahny"
+                        ],
+                        "created_at": "2023-10-17T02:43:48.000000Z",
+                        "updated_at": "2024-01-15T04:50:05.000000Z",
+                        "deleted_at": null,
+                        "note": null
+                    }
+                },
+                {
+                    "result_id": 19479698,
+                    "created_date": "2024-08-30",
+                    "question_id": 2247091,
+                    "question_old_code": null,
+                    "list_choice": [
+                        "wkil",
+                        "bybq",
+                        "iini",
+                        "xklv"
+                    ],
+                    "ans": [
+                        "iini"
+                    ],
+                    "true": [
+                        "iini"
+                    ],
+                    "extracted_true": null,
+                    "question": {
+                        "id": 2247091,
+                        "quiz_id": 82241,
+                        "position": 0,
+                        "excerpt": "Tài liệu dự án thì có được tự ý xóa không.",
+                        "image": null,
+                        "sound": null,
+                        "youtube": null,
+                        "answer": {
+                            "wkil": "Thích là xóa",
+                            "bybq": "Backup về máy xong rồi xóa",
+                            "iini": "Không được phép xóa bất kỳ tài liệu nào của dự án",
+                            "xklv": "Kết thúc dự án rồi xóa cũng chẳng sao"
+                        },
+                        "answer_image": {
+                            "wkil": null,
+                            "bybq": null,
+                            "iini": null,
+                            "xklv": null
+                        },
+                        "true": [
+                            "iini"
+                        ],
+                        "created_at": "2023-10-17T02:43:48.000000Z",
+                        "updated_at": "2024-01-15T04:50:05.000000Z",
+                        "deleted_at": null,
+                        "note": null
+                    }
+                },
+                {
+                    "result_id": 19479698,
+                    "created_date": "2024-08-30",
+                    "question_id": 2247092,
+                    "question_old_code": null,
+                    "list_choice": [
+                        "cjjt",
+                        "sqbo",
+                        "szxp",
+                        "wxdh"
+                    ],
+                    "ans": [
+                        "wxdh"
+                    ],
+                    "true": [
+                        "wxdh"
+                    ],
+                    "extracted_true": null,
+                    "question": {
+                        "id": 2247092,
+                        "quiz_id": 82241,
+                        "position": 0,
+                        "excerpt": "Để đảm bảo an toàn cho accessKey\/secretKey bạn sẽ làm gì .",
+                        "image": null,
+                        "sound": null,
+                        "youtube": null,
+                        "answer": {
+                            "cjjt": "Không lưu AccessKey\/SecretKey trong source code",
+                            "sqbo": "Không sử dụng tài khoản root, hãy sử dụng tài khoản IAM User",
+                            "szxp": "Set giới hạn budget cho tài khoản",
+                            "wxdh": "Tất cả đáp án trên"
+                        },
+                        "answer_image": {
+                            "cjjt": null,
+                            "sqbo": null,
+                            "szxp": null,
+                            "wxdh": null
+                        },
+                        "true": [
+                            "wxdh"
+                        ],
+                        "created_at": "2023-10-17T02:43:48.000000Z",
+                        "updated_at": "2024-01-15T04:50:05.000000Z",
+                        "deleted_at": null,
+                        "note": null
+                    }
+                },
+                {
+                    "result_id": 19479698,
+                    "created_date": "2024-08-30",
+                    "question_id": 2247093,
+                    "question_old_code": null,
+                    "list_choice": [
+                        "kpkz",
+                        "nsfn",
+                        "mxdu",
+                        "twhs"
+                    ],
+                    "ans": [
+                        "nsfn",
+                        "mxdu",
+                        "twhs"
+                    ],
+                    "true": [
+                        "nsfn",
+                        "mxdu",
+                        "twhs"
+                    ],
+                    "extracted_true": null,
+                    "question": {
+                        "id": 2247093,
+                        "quiz_id": 82241,
+                        "position": 0,
+                        "excerpt": "Trong dự án sau khi họp hàng tuần với khách hàng xong bạn sẽ làm gì? (chọn nhiều phương án)",
+                        "image": null,
+                        "sound": null,
+                        "youtube": null,
+                        "answer": {
+                            "kpkz": "Họp xong là thôi, tiếp tục quay về làm việc",
+                            "nsfn": "Chuẩn hóa lại thông tin meeting log và gửi lại khách hàng xác nhận",
+                            "mxdu": "Các thông tin khách hàng yêu cầu trong buổi họp thì log lên tool quản lý dự án",
+                            "twhs": "Họp nội bộ dự án để clear thông tin mà khách hàng đã yêu cầu"
+                        },
+                        "answer_image": {
+                            "kpkz": null,
+                            "nsfn": null,
+                            "mxdu": null,
+                            "twhs": null
+                        },
+                        "true": [
+                            "nsfn",
+                            "mxdu",
+                            "twhs"
+                        ],
+                        "created_at": "2023-10-17T02:43:48.000000Z",
+                        "updated_at": "2024-01-15T04:50:05.000000Z",
+                        "deleted_at": null,
+                        "note": null
+                    }
+                },
+                {
+                    "result_id": 19479698,
+                    "created_date": "2024-08-30",
+                    "question_id": 2247094,
+                    "question_old_code": null,
+                    "list_choice": [
+                        "xjoc",
+                        "ghce",
+                        "ofwf",
+                        "vkqb"
+                    ],
+                    "ans": [
+                        "ghce",
+                        "ofwf",
+                        "vkqb"
+                    ],
+                    "true": [
+                        "ghce",
+                        "ofwf",
+                        "vkqb"
+                    ],
+                    "extracted_true": null,
+                    "question": {
+                        "id": 2247094,
+                        "quiz_id": 82241,
+                        "position": 0,
+                        "excerpt": "Trong quá trình làm việc thấy phát sinh issue thì những hành động nào sau đây bạn không nên làm? (chọn nhiều đáp án)",
+                        "image": null,
+                        "sound": null,
+                        "youtube": null,
+                        "answer": {
+                            "xjoc": "Điều tra nội dung issue thật kỹ và báo cáo luôn với quản lý",
+                            "ghce": "Để dành đến ngày mai mới báo cáo",
+                            "ofwf": "Ỉm issue đi để không ai biết cả",
+                            "vkqb": "Đẩy issue cho người khác xử lý"
+                        },
+                        "answer_image": {
+                            "xjoc": null,
+                            "ghce": null,
+                            "ofwf": null,
+                            "vkqb": null
+                        },
+                        "true": [
+                            "ghce",
+                            "ofwf",
+                            "vkqb"
+                        ],
+                        "created_at": "2023-10-17T02:43:48.000000Z",
+                        "updated_at": "2024-01-15T04:50:05.000000Z",
+                        "deleted_at": null,
+                        "note": null
+                    }
+                },
+                {
+                    "result_id": 19479698,
+                    "created_date": "2024-08-30",
+                    "question_id": 2247095,
+                    "question_old_code": null,
+                    "list_choice": [
+                        "ppcp",
+                        "uuwx",
+                        "crnr",
+                        "avzq"
+                    ],
+                    "ans": [
+                        "crnr",
+                        "uuwx",
+                        "ppcp"
+                    ],
+                    "true": [
+                        "ppcp",
+                        "uuwx",
+                        "crnr"
+                    ],
+                    "extracted_true": null,
+                    "question": {
+                        "id": 2247095,
+                        "quiz_id": 82241,
+                        "position": 0,
+                        "excerpt": "Cuối ngày trước khi kết thúc công việc và đi về bạn sẽ làm gì.",
+                        "image": null,
+                        "sound": null,
+                        "youtube": null,
+                        "answer": {
+                            "ppcp": "Xem xét lại tiến độ công việc của mình trong ngày hôm nay và báo cáo lại quản lý",
+                            "uuwx": "Nếu thấy có vấn đề thì chủ động báo cáo chi tiết vấn đề gặp phải cho quản lý",
+                            "crnr": "Sau khi báo cáo xong thấy task đang bị chậm so với yêu cầu nên chủ động ở lại làm tiếp để hoàn thành",
+                            "avzq": "Hết giờ hành chính tự ý đi về và không báo cáo, cũng không cần quan tâm là task đang bị chậm"
+                        },
+                        "answer_image": {
+                            "ppcp": null,
+                            "uuwx": null,
+                            "crnr": null,
+                            "avzq": null
+                        },
+                        "true": [
+                            "ppcp",
+                            "uuwx",
+                            "crnr"
+                        ],
+                        "created_at": "2023-10-17T02:43:48.000000Z",
+                        "updated_at": "2024-01-15T04:50:05.000000Z",
+                        "deleted_at": null,
+                        "note": null
+                    }
+                },
+                {
+                    "result_id": 19479698,
+                    "created_date": "2024-08-30",
+                    "question_id": 2248452,
+                    "question_old_code": null,
+                    "list_choice": [
+                        "iboz",
+                        "sbmc",
+                        "geyi",
+                        "oygq"
+                    ],
+                    "ans": [
+                        "sbmc"
+                    ],
+                    "true": [
+                        "sbmc"
+                    ],
+                    "extracted_true": null,
+                    "question": {
+                        "id": 2248452,
+                        "quiz_id": 82241,
+                        "position": 0,
+                        "excerpt": "Khi xử lý vi phạm, mức độ nào được kỷ luật bằng văn bản và khấu trừ thưởng 500.000 đồng\/lần vi phạm?",
+                        "image": null,
+                        "sound": null,
+                        "youtube": null,
+                        "answer": {
+                            "iboz": "Mức độ 2",
+                            "sbmc": "Mức độ 3",
+                            "geyi": "Mức độ 4",
+                            "oygq": "Mức độ 5"
+                        },
+                        "answer_image": null,
+                        "true": [
+                            "sbmc"
+                        ],
+                        "created_at": "2023-10-17T09:23:38.000000Z",
+                        "updated_at": "2024-01-15T04:50:05.000000Z",
+                        "deleted_at": null,
+                        "note": null
+                    }
+                },
+                {
+                    "result_id": 19479698,
+                    "created_date": "2024-08-30",
+                    "question_id": 2248454,
+                    "question_old_code": null,
+                    "list_choice": [
+                        "utxv",
+                        "bpvd",
+                        "wqtg",
+                        "jqeq"
+                    ],
+                    "ans": [
+                        "jqeq"
+                    ],
+                    "true": [
+                        "jqeq"
+                    ],
+                    "extracted_true": null,
+                    "question": {
+                        "id": 2248454,
+                        "quiz_id": 82241,
+                        "position": 0,
+                        "excerpt": "Mức độ vi phạm tương ứng với việc sa thải và đền bù theo trách nhiệm vật chất là gì?",
+                        "image": null,
+                        "sound": null,
+                        "youtube": null,
+                        "answer": {
+                            "utxv": "Mức độ 1",
+                            "bpvd": "Mức độ 2",
+                            "wqtg": "Mức độ 3",
+                            "jqeq": "Mức độ 5"
+                        },
+                        "answer_image": null,
+                        "true": [
+                            "jqeq"
+                        ],
+                        "created_at": "2023-10-17T09:25:11.000000Z",
+                        "updated_at": "2024-01-15T04:50:05.000000Z",
+                        "deleted_at": null,
+                        "note": null
+                    }
+                },
+                {
+                    "result_id": 19479698,
+                    "created_date": "2024-08-30",
+                    "question_id": 2248456,
+                    "question_old_code": null,
+                    "list_choice": [
+                        "bbfp",
+                        "vfyy",
+                        "agdg",
+                        "nbfm"
+                    ],
+                    "ans": [
+                        "agdg"
+                    ],
+                    "true": [
+                        "agdg"
+                    ],
+                    "extracted_true": null,
+                    "question": {
+                        "id": 2248456,
+                        "quiz_id": 82241,
+                        "position": 0,
+                        "excerpt": "Trách nhiệm liên đới của cấp quản lý cá nhân vi phạm sẽ thực hiện như thế nào?",
+                        "image": null,
+                        "sound": null,
+                        "youtube": null,
+                        "answer": {
+                            "bbfp": "Không có trách nhiệm liên đới",
+                            "vfyy": "Cấp quản lý phải chịu mức phạt bằng văn bản",
+                            "agdg": "Trách nhiệm liên đới sẽ thực thi theo quyết định từ Ban lãnh đạo Công ty",
+                            "nbfm": "Cấp quản lý phải đền bù theo trách nhiệm vật chất."
+                        },
+                        "answer_image": null,
+                        "true": [
+                            "agdg"
+                        ],
+                        "created_at": "2023-10-17T09:25:49.000000Z",
+                        "updated_at": "2024-01-15T04:50:05.000000Z",
+                        "deleted_at": null,
+                        "note": null
+                    }
+                },
+                {
+                    "result_id": 19479698,
+                    "created_date": "2024-08-30",
+                    "question_id": 2248457,
+                    "question_old_code": null,
+                    "list_choice": [
+                        "ngwe",
+                        "jbuc",
+                        "trbq",
+                        "cjof"
+                    ],
+                    "ans": [
+                        "ngwe"
+                    ],
+                    "true": [
+                        "ngwe"
+                    ],
+                    "extracted_true": null,
+                    "question": {
+                        "id": 2248457,
+                        "quiz_id": 82241,
+                        "position": 0,
+                        "excerpt": "Đối với việc xử lý vi phạm mức độ 2, Ban ATTT sẽ thực hiện hình thức xử lý vi phạm như thế nào?",
+                        "image": null,
+                        "sound": null,
+                        "youtube": null,
+                        "answer": {
+                            "ngwe": "Gửi email đến cá nhân vi phạm và thông báo đến các bên liên quan",
+                            "jbuc": "Gửi email đến Ban lãnh đạo Công ty",
+                            "trbq": "Thông qua bộ phận IT để thông báo",
+                            "cjof": "Chuyển việc xử lý cho bộ phận hành chính nhân sự"
+                        },
+                        "answer_image": null,
+                        "true": [
+                            "ngwe"
+                        ],
+                        "created_at": "2023-10-17T09:27:30.000000Z",
+                        "updated_at": "2024-01-15T04:50:05.000000Z",
+                        "deleted_at": null,
+                        "note": null
+                    }
+                },
+                {
+                    "result_id": 19479698,
+                    "created_date": "2024-08-30",
+                    "question_id": 2248459,
+                    "question_old_code": null,
+                    "list_choice": [
+                        "zvku",
+                        "hiey",
+                        "xrxd",
+                        "nnmp"
+                    ],
+                    "ans": [
+                        "xrxd"
+                    ],
+                    "true": [
+                        "xrxd"
+                    ],
+                    "extracted_true": null,
+                    "question": {
+                        "id": 2248459,
+                        "quiz_id": 82241,
+                        "position": 0,
+                        "excerpt": "Xác định mức độ vi phạm ATTT cho từng hành vi sau đây:
+1.      Không đặt password khi gửi tài liệu cho khách hàng: Source code, tài liệu được yêu cầu theo hợp đồng dự án
+2.      Sử dụng thiết bị lưu trữ thông tin như ổ cứng ngoài, USB, CD\/DVD khi chưa được sự đồng ý của bộ phận IT
+3.      Truy cập vào các trang web có nội dung xấu",
+                        "image": null,
+                        "sound": null,
+                        "youtube": null,
+                        "answer": {
+                            "zvku": "Hành vi 1 thuộc mức độ 2, hành vi 2 thuộc mức độ 4, hành vi 3 thuộc mức độ 5.",
+                            "hiey": "Hành vi 1 thuộc mức độ 3, hành vi 2 thuộc mức độ 2, hành vi 3 thuộc mức độ 5.",
+                            "xrxd": "Hành vi 1 thuộc mức độ 2, hành vi 2 thuộc mức độ 4, hành vi 3 thuộc mức độ 2.",
+                            "nnmp": "Hành vi 1 thuộc mức độ 3, hành vi 2 thuộc mức độ 5, hành vi 3 thuộc mức độ 4."
+                        },
+                        "answer_image": null,
+                        "true": [
+                            "xrxd"
+                        ],
+                        "created_at": "2023-10-17T09:28:44.000000Z",
+                        "updated_at": "2024-01-15T04:50:05.000000Z",
+                        "deleted_at": null,
+                        "note": null
+                    }
+                },
+                {
+                    "result_id": 19479698,
+                    "created_date": "2024-08-30",
+                    "question_id": 2248460,
+                    "question_old_code": null,
+                    "list_choice": [
+                        "cbws",
+                        "vabr",
+                        "wucu",
+                        "zzlr"
+                    ],
+                    "ans": [
+                        "wucu"
+                    ],
+                    "true": [
+                        "wucu"
+                    ],
+                    "extracted_true": null,
+                    "question": {
+                        "id": 2248460,
+                        "quiz_id": 82241,
+                        "position": 0,
+                        "excerpt": "Cho các hành vi sau đây, hãy xác định mức độ vi phạm ATTT của từng hành vi:
+1. Sử dụng mail cá nhân\/ email tài khoản không phải của công ty để truy cập vào tài liệu của khách hàng.
+2. Upload tài liệu dự án lên mạng xã hội, cloud cá nhân.
+3.Tiết lộ các thông tin mang tính bảo mật cao ảnh hưởng đến hoạt động kinh doanh của Công ty và Khách hàng liên quan đến tài chính, tài sản, tiết lộ bí mật công nghệ, bí mật kinh doanh.",
+                        "image": null,
+                        "sound": null,
+                        "youtube": null,
+                        "answer": {
+                            "cbws": "Hành vi 1 thuộc mức độ 2, hành vi 2 thuộc mức độ 4, hành vi 3 thuộc mức độ 5.",
+                            "vabr": "Hành vi 1 thuộc mức độ 3, hành vi 2 thuộc mức độ 2, hành vi 3 thuộc mức độ 5.",
+                            "wucu": "Hành vi 1 thuộc mức độ 2, hành vi 2 thuộc mức độ 4, hành vi 3 thuộc mức độ 4.",
+                            "zzlr": "Hành vi 1 thuộc mức độ 3, hành vi 2 thuộc mức độ 5, hành vi 3 thuộc mức độ 4."
+                        },
+                        "answer_image": null,
+                        "true": [
+                            "wucu"
+                        ],
+                        "created_at": "2023-10-17T09:29:34.000000Z",
+                        "updated_at": "2024-01-15T04:50:05.000000Z",
+                        "deleted_at": null,
+                        "note": null
+                    }
+                },
+                {
+                    "result_id": 19479698,
+                    "created_date": "2024-08-30",
+                    "question_id": 2248461,
+                    "question_old_code": null,
+                    "list_choice": [
+                        "ykla",
+                        "wrjq",
+                        "gilr",
+                        "tykc"
+                    ],
+                    "ans": [
+                        "gilr"
+                    ],
+                    "true": [
+                        "gilr"
+                    ],
+                    "extracted_true": null,
+                    "question": {
+                        "id": 2248461,
+                        "quiz_id": 82241,
+                        "position": 0,
+                        "excerpt": "Cho các hành vi sau đây, hãy xác định mức độ vi phạm ATTT của từng hành vi:
+  	1.  Mang máy tính cá nhân vào công ty khi chưa được phê duyệt
+  	2.  Cố tình truy cập thông tin ngoài phạm vi quyền hạn được cho phép
+  	3.  Sử dụng email của công ty để phát tán tài liệu, thông tin trái thuần phong mỹ tục, thông tin vi phạm theo luật pháp Việt Nam",
+                        "image": null,
+                        "sound": null,
+                        "youtube": null,
+                        "answer": {
+                            "ykla": "Hành vi 1 thuộc mức độ 2, hành vi 2 thuộc mức độ 3, hành vi 3 thuộc mức độ 4.",
+                            "wrjq": "Hành vi 1 thuộc mức độ 3, hành vi 2 thuộc mức độ 2, hành vi 3 thuộc mức độ 5.",
+                            "gilr": "Hành vi 1 thuộc mức độ 2, hành vi 2 thuộc mức độ 3, hành vi 3 thuộc mức độ 5.",
+                            "tykc": "Hành vi 1 thuộc mức độ 3, hành vi 2 thuộc mức độ 5, hành vi 3 thuộc mức độ 4."
+                        },
+                        "answer_image": null,
+                        "true": [
+                            "gilr"
+                        ],
+                        "created_at": "2023-10-17T09:31:50.000000Z",
+                        "updated_at": "2024-01-15T04:50:05.000000Z",
+                        "deleted_at": null,
+                        "note": null
+                    }
+                },
+                {
+                    "result_id": 19479698,
+                    "created_date": "2024-08-30",
+                    "question_id": 2248462,
+                    "question_old_code": null,
+                    "list_choice": [
+                        "wfrl",
+                        "cmnz",
+                        "bmyd",
+                        "ogli"
+                    ],
+                    "ans": [
+                        "bmyd"
+                    ],
+                    "true": [
+                        "bmyd"
+                    ],
+                    "extracted_true": null,
+                    "question": {
+                        "id": 2248462,
+                        "quiz_id": 82241,
+                        "position": 0,
+                        "excerpt": "Xác định mức độ vi phạm cho hành vi 'Upload, public source code trên internet'.",
+                        "image": null,
+                        "sound": null,
+                        "youtube": null,
+                        "answer": {
+                            "wfrl": "Mức độ 3: Khiển trách bằng văn bản và khấu trừ thưởng 500.000 đồng\/lần vi phạm hoặc đền bù theo quyết định từ Ban lãnh đạo",
+                            "cmnz": "Mức độ 4: Khiển trách bằng văn bản và khấu trừ thưởng 1.000.000 đồng\/lần vi phạm hoặc đền bù theo quyết định từ Ban lãnh đạo",
+                            "bmyd": "Mức độ 5: Sa thải và đền bù theo trách nhiệm vật chất hoặc theo quyết định từ Ban lãnh đạo.",
+                            "ogli": "Mức độ 2: Khiển trách bằng văn bản và khấu trừ thưởng 200.000 đồng\/lần vi phạm"
+                        },
+                        "answer_image": null,
+                        "true": [
+                            "bmyd"
+                        ],
+                        "created_at": "2023-10-17T09:33:04.000000Z",
+                        "updated_at": "2024-01-15T04:50:05.000000Z",
+                        "deleted_at": null,
+                        "note": null
+                    }
+                },
+                {
+                    "result_id": 19479698,
+                    "created_date": "2024-08-30",
+                    "question_id": 2248465,
+                    "question_old_code": null,
+                    "list_choice": [
+                        "uuse",
+                        "xajp",
+                        "tedl",
+                        "vtxi"
+                    ],
+                    "ans": [
+                        "uuse"
+                    ],
+                    "true": [
+                        "uuse"
+                    ],
+                    "extracted_true": null,
+                    "question": {
+                        "id": 2248465,
+                        "quiz_id": 82241,
+                        "position": 0,
+                        "excerpt": "Xác định mức độ vi phạm ATTT cho từng hành vi sau đây:
+1.  Sử dụng thẻ credit cá nhân để thanh toán dịch vụ cho dự án khi chưa được phê duyệt.
+2.  Mang máy tính cá nhân vào công ty khi chưa được phê duyệt.
+3. Sử dụng mail cá nhân\/ email tài khoản không phải của công ty để truy cập vào tài liệu của khách hàng.",
+                        "image": null,
+                        "sound": null,
+                        "youtube": null,
+                        "answer": {
+                            "uuse": "Hành vi 1 thuộc mức độ 2, hành vi 2 thuộc mức độ 2, hành vi 3 thuộc mức độ 2.",
+                            "xajp": "Hành vi 1 thuộc mức độ 3, hành vi 2 thuộc mức độ 2, hành vi 3 thuộc mức độ 4.",
+                            "tedl": "Hành vi 1 thuộc mức độ 2, hành vi 2 thuộc mức độ 4, hành vi 3 thuộc mức độ 5.",
+                            "vtxi": "Hành vi 1 thuộc mức độ 3, hành vi 2 thuộc mức độ 5, hành vi 3 thuộc mức độ 2."
+                        },
+                        "answer_image": null,
+                        "true": [
+                            "uuse"
+                        ],
+                        "created_at": "2023-10-17T09:35:12.000000Z",
+                        "updated_at": "2024-01-15T04:50:05.000000Z",
+                        "deleted_at": null,
+                        "note": null
+                    }
+                }
+            ]
+        }
+    }
+}
